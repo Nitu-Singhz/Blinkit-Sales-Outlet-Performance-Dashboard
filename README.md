@@ -9,7 +9,7 @@ This project demonstrates an end-to-end **data analytics workflow** — from dat
 
 ## 📊 Dashboard Preview
 
-![Blinkit Sales & Outlet Performance Dashboard](screenshots/dashboard_overview.png)
+Blinkit Sales & Outlet Performance Dashboard
 
 > **Interactive Power BI dashboard** for analyzing sales, product performance, outlet characteristics, and customer ratings.
 
@@ -457,4 +457,3 @@ BCA Student | Aspiring Data Analyst
 
 ---
 
-⭐ If you found this project useful, feel free to explore the repository and dashboard files.
