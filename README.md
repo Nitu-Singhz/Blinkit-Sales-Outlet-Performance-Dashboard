@@ -11,6 +11,8 @@ This project demonstrates an end-to-end **data analytics workflow** — from dat
 
 Blinkit Sales & Outlet Performance Dashboard
 
+![image alt](https://github.com/Nitu-Singhz/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Screenshot%202026-08-17%20203608.png)
+
 > **Interactive Power BI dashboard** for analyzing sales, product performance, outlet characteristics, and customer ratings.
 
 ---
@@ -34,6 +36,8 @@ The dashboard was designed to answer questions such as:
 ## 🗂️ Dataset
 
 **Source file:** `BlinkIT_Grocery_Data.xlsx`
+
+[BlinkIT Grocery Data (1).xlsx](https://github.com/Nitu-Singhz/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20(1).xlsx)
 
 **Format:** Excel
 
